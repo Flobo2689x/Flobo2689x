@@ -1,18 +1,22 @@
-## Flobo
+## Marvin
 
-Software developer focused on reliable desktop applications and developer tooling.
+Software developer. I build [Stackrig](https://stackrig.dev).
 
-### Focus
+## Stackrig
 
-- Cross-platform desktop apps, with an emphasis on Windows support, packaging and installers
-- Backend services and tooling in Python and TypeScript
-- Performance-oriented C++: simulation, multithreading and data-driven models
+A browser tool for sketching a cloud architecture and seeing where it breaks before you build it: throughput, p99 latency, errors, bottlenecks and monthly cost, simulated live. The model is checked against real machines, and where it misses, that is published too.
 
-### Tech stack
+There is also a [blog](https://stackrig.dev/blog) with how-tos that were run on fresh machines, and pieces based on our own measurements.
 
-Python · TypeScript · React · Node.js · Electron · FastAPI · C++ · SQLite · Git
+The code is closed source.
 
-### Currently
+## What I work with
 
-- Contributing to open-source projects on GitHub
-- Building a civilization simulation and a real-time strategy game assistant in C++ (both private for now)
+TypeScript · React · Node.js · Python · C++ · PostgreSQL · Cloudflare Workers · Electron · SQLite
+
+## Also
+
+- Desktop apps with solid Windows packaging and installers
+- Performance work in C++: simulation, multithreading, data-driven models
+- Contributing to open-source projects
+- A civilization simulation and a real-time strategy game assistant in C++ (private for now)
